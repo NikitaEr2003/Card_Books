@@ -2,7 +2,7 @@
 #include <string>
 #include "Card_index.h"
 #include <fstream>
-int a1 = 2;
+
 using namespace  std;
 
 const char* strCategory[] =
