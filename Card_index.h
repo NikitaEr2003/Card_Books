@@ -5,7 +5,7 @@
 #include "Custom_sleep.h"
 #include <cstdlib>
 #include "Book.h"
-extern int a1;
+
 
 struct CARD_INDEX{
 
